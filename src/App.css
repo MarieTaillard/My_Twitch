@@ -137,7 +137,7 @@ PARTIE SIDEBAR
   color: #efebf5;
 }
 
-/* .containerFlexSidebar {
+.containerFlexSidebar {
   padding: 10px 15px 8px 5px;
   display: flex;
   justify-content: space-between;
@@ -181,7 +181,7 @@ PARTIE SIDEBAR
   margin-top: 6px;
   margin-right: 3px;
   background: crimson;
-} */
+}
 @media screen and (max-width: 1200px) {
   .sidebar {
     display: none;
